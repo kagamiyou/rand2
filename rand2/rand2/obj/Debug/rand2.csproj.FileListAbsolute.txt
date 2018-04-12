@@ -1,0 +1,7 @@
+D:\GITHIB\rand2\rand2\rand2\bin\Debug\rand2.exe.config
+D:\GITHIB\rand2\rand2\rand2\bin\Debug\rand2.exe
+D:\GITHIB\rand2\rand2\rand2\bin\Debug\rand2.pdb
+D:\GITHIB\rand2\rand2\rand2\obj\Debug\rand2.csprojResolveAssemblyReference.cache
+D:\GITHIB\rand2\rand2\rand2\obj\Debug\rand2.csproj.CoreCompileInputs.cache
+D:\GITHIB\rand2\rand2\rand2\obj\Debug\rand2.exe
+D:\GITHIB\rand2\rand2\rand2\obj\Debug\rand2.pdb
